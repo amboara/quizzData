@@ -1,10 +1,11 @@
-{"question" : "Où se trouvent les glandes sudoripares d'un chien ?",
+{
+	"question" : "Où se trouvent les glandes sudoripares d'un chien ?",
 			"option1" : "Sous ses pattes",
 			"option2" : "Sous ses aisselles",
 			"response" : "option1",
 		
 			"question" : "Qui raconte les aventures de Sherlock Holmes ?",
-			"option1" : "Watson",,
+			"option1" : "Watson",
 			"option2" : "Dr House",
 			"response" : "option1",
 	
@@ -21,4 +22,5 @@
 			"question" : "Comment appelle-t-on le point le plus haut du Soleil dans sa course ?",
 			"option1" : "Le Zenith",
 			"option2" :"Le Meridith",
-			"response" : "option1"}
+			"response" : "option1"
+}
