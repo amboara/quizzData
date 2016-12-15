@@ -1,4 +1,4 @@
-{
+[{
 	   "question" : "Où se trouvent les glandes sudoripares d'un chien ?",
 			"option1" : "Sous ses pattes",
 			"option2" : "Sous ses aisselles",
@@ -23,4 +23,4 @@
 			"option1" : "Le Zenith",
 			"option2" :"Le Meridith",
 			"response" : "option1"
-}
+}]
